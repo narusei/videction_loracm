@@ -1,7 +1,7 @@
-# Vidector Lora Communicate Module
+# Videction Lora Communicate Module
 
-Vidector（来場者検出システム = Visitor Detector）における通信モジュール部分に関してのリポジトリです。  
-Vidector は BLE ビーコンを用いた来場者自動検知を行い、その情報を LoRaWAN を用いてサーバへと送信、及び Web アプリケーションでの可視化を行うシステムです。  
+Videction（来場者検出システム = Visitor Detection）における通信モジュール部分に関してのリポジトリです。  
+Videction は BLE ビーコンを用いた来場者自動検知を行い、その情報を LoRaWAN を用いてサーバへと送信、及び Web アプリケーションでの可視化を行うシステムです。  
 その中で本リポジトリは LoRaWAN 機構におけるエンドデバイスの LoRa 通信を用いた通信モジュール部分の実装です。
 
 ## 使用デバイス
